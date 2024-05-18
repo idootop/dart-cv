@@ -1,5 +1,6 @@
 name: dart_cv
 description: Create professional profile resumes using Flutter Widgets.
+homepage: https://github.com/idootop/dart-cv
 
 version: 1.0.0
 
@@ -10,4 +11,4 @@ dependencies:
   pdf: ^3.10.8
 
 dev_dependencies:
-  lints: ^2.0.0
+  lints: ^3.0.0
